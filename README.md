@@ -11,3 +11,12 @@ In order to function correctly the program needs the supporting distribution fil
 The orginal source was post build b3043 - it incorporated some changes that were being worked on by Steve before he retired.
 
 The support forum for this software can [be found here](https://cumulus.hosiene.co.uk/)
+
+
+
+Informations for Linux
+
+https://www.cumuluswiki.org/a/MX_on_Linux
+https://wetterstationsforum.info/wiki/doku.php?id=wiki:software:cumulusmx
+
+CumulusMX linux - https://www.bing.com/search?&pc=HWMB&form=HWMBFC&q=CumulusMX+linux
